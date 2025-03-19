@@ -1,7 +1,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](src="assets\amigo-secreto.png")
+![image]("https://github.com/SheilaNSN/challenge-amigo-secreto_pt-main/blob/main/assets/telaDoProjeto.png")
 
 ## Ferramentas utilizadas:
 
