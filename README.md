@@ -1,4 +1,3 @@
-```
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
@@ -17,5 +16,3 @@
 ### Sheila Nery
 
 ### Linkedin: https://www.linkedin.com/sheila-nery/
-
-```
